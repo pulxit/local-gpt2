@@ -1,8 +1,5 @@
 # local-gpt2
 
-
-
-```markdown
 # Documentation for Flask Application with GPT-2 Text Generation
 
 ## Overview
@@ -100,7 +97,3 @@ To optimize RAM usage and improve performance, consider the following techniques
 - Cache frequent requests and responses
 - Ensure security with authentication and authorization
 - Implement logging and monitoring
-
-```
-
-This documentation and README file should provide a comprehensive guide to deploying, accessing, testing, and optimizing the Flask application.
